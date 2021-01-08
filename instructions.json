@@ -1,0 +1,10 @@
+{
+    "add":{
+        "type": "fixed",
+        "parameters":{
+            "entries":5,
+            "reads":2,
+            "writes": 1
+        }
+    }
+}
