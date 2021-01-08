@@ -1,4 +1,4 @@
-# IWMS-MENSURA 2020: COSMIC Functional Size of ARM Assembly Programs [[Paper](http://ceur-ws.org/Vol-2725/paper1.pdf)]
+# IWSM-MENSURA 2020: COSMIC Functional Size of ARM Assembly Programs [[Paper](http://ceur-ws.org/Vol-2725/paper1.pdf)]
 
 This repo contains the source code of the prototype of the automated measurement tool mentioned in the published work. 
 
@@ -13,7 +13,7 @@ All measurements are based on the **Operation** pseudo-code present in the offic
 
   - Run ```gui.py```.
   - Select a file following the criteria mentioned in the paper.
-  - Click ```Measure CFPs``` and inspect the results.
+  - Click on ```Measure CFPs``` and inspect the results.
   - If you decide to save the results, the output will be saved in the ```out``` directory.
 
 ### TODO
@@ -24,7 +24,7 @@ All measurements are based on the **Operation** pseudo-code present in the offic
 
 ### Contact
 If you face any problems using this tool, please create an issue, or get in touch with me through my [personal email](mailto:amfa.darwish.97@gmail.com).
-If you find this repository useful for your research, please cite the following paper:
+If you find this repository useful for your research, please cite us:
 ```
 @inproceedings{Darwish2020COSMICFS,
   title={COSMIC Functional Size of ARM Assembly Programs},
